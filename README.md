@@ -1,3 +1,4 @@
+# Add your SRN and Your Name
 # Fruit Catcher Repair Lab
 
 This project is a 2D arcade catch-and-dodge game using **Pygame**. It introduces students to sprite collision checking, continuous horizontal movement, falling entity lifecycle management, life counters, and game state transitions within an object-oriented codebase.
